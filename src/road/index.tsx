@@ -11,7 +11,7 @@ function Road() {
   const { t } = useTranslation();
   const title = t("Road Map");
   const desc = t(
-    "All you need is the plan, the road map, and the courage to press on to your destination."
+    "Go ahead with Plan & Courage & Persistence"
   );
   const data = [
     {
