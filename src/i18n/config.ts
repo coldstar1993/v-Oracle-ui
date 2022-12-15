@@ -56,10 +56,10 @@ export const resources = {
       "Market": "Market",
       "Whitepaper 1.0 was issued": "Whitepaper 1.0 was issued",
 
-      "Issue White Paper 1.0": "Issue White Paper 1.0",
+      "Got the ideas": "Got the ideas",
       "Core protocol design": "Core protocol design",
-      "Apply for Web3 fund grant": "Apply for Web3 fund grant",
-      "Develop prototype based on pallet and off-chain work": "Develop prototype based on pallet and off-chain work",
+      "Join zkIgnite, Cohort 0": "Join zkIgnite, Cohort 0",
+      "Develop prototype based on Mina snarkyjs & zkCli work": "Develop prototype based on Mina snarkyjs & zkCli work",
       "Improve the economic model": "Improve the economic model",
       "Integrate Ares Protocol in Polkadot Defi projects": "Integrate Ares Protocol in Polkadot Defi projects",
       "Obtain Web3 fund grant": "Obtain Web3 foundation grant",
@@ -336,8 +336,10 @@ export const resources = {
       "Mainnet opens on-chain governance function": "Mainnet opens on-chain governance function",
       "Mainnet running price prediction function": "Mainnet running price prediction function",
       "The main network optimizes the quote verification function": "The main network optimizes the quote verification function",
-      "The main network enables optimist challenge mode": "The main network enables optimist challenge mode",
-      "The main network is updated on the chain and accesses the Polkadot's heterogeneous parachains.": "The main network is updated on the chain and accesses the Polkadot's heterogeneous parachains."
+      "Increase datasources": "Increase datasources",
+      "Expand the network nodes": "Expand the network nodes",
+      "Design the economic model":"Design the economic model",
+      "Integrate Voracle Defi projects":"Integrate Voracle Defi projects"
     },
   },
   cn: {
@@ -425,10 +427,10 @@ export const resources = {
       "Explorer": "浏览器",
       "Decentralized Finance": "去中心化金融",
       "Market": "市场",
-      "Issue White Paper 1.0": "白皮书1.0发布",
+      "Got the ideas": "想法诞生",
       "Core protocol design": "核心协议设计",
-      "Apply for Web3 fund grant": "WEB3 基金会 Grant 申请",
-      "Develop prototype based on pallet and off-chain work": "基于 pallet 和 off-chain work 的原型开发",
+      "Join zkIgnite, Cohort 0": "WEB3 基金会 Grant 申请",
+      "Develop prototype based on Mina snarkyjs & zkCli work": "基于 Mina Snarkyjs 和 zkCli 的原型开发",
       "Improve the economic model": "改进经济模式的设计",
       "Integrate Ares Protocol in Polkadot Defi projects": "在Polkadot DeFi项目中整合Ares协议",
       "Obtain Web3 fund grant": "获得WEB3 基金会 Grant",
@@ -671,8 +673,10 @@ export const resources = {
       "Mainnet opens on-chain governance function": "主网开启链上治理功能",
       "Mainnet running price prediction function": "主网运行价格预测功能",
       "The main network optimizes the quote verification function": "主网优化报价验证功能",
-      "The main network enables optimist challenge mode": "主网启用乐观者挑战模式",
-      "The main network is updated on the chain and accesses the Polkadot's heterogeneous parachains.": "主网进行链上升级，接入Polkadot异构平行链"
+      "Increase datasources": "扩展数据源",
+      "Expand the network nodes": "扩展网络节点规模",
+      "Design the economic model":"设计经济模型",
+      "Integrate Voracle Defi projects":"集成更多zkapps"
     },
   }
 }
