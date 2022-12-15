@@ -66,12 +66,12 @@ function Head() {
           {
             name: t("Documentation"),
             id: "Documentation",
-            url: "https://docs.aresprotocol.io/#/",
+            url: "https://github.com/coldstar1993/v-Oracle",
           },
           {
             name: t("Contact"),
             className: "Contact",
-            url: "#sendEmail",
+            url: "#Join",
           },
         ],
       },

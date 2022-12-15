@@ -58,7 +58,7 @@ function Foot() {
     list: [
       {
         name: t("Documentation"),
-        url: "https://docs.aresprotocol.io/#/",
+        url: "https://github.com/coldstar1993/v-Oracle",
       },
       {
         name: t("Explorer"),
