@@ -15,8 +15,9 @@ function Join() {
     <section className="join" id="Join">
       <div className="join-con">
         <h2 className="title">{title}</h2>
-        <h3></h3>
-        <p></p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
         <div className="link-icon">
           {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
           <a href='https://twitter.com/coldStar1993' target="_blank" rel="noreferrer"><img src={link3} alt="" /></a>

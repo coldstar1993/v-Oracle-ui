@@ -140,7 +140,7 @@ function EconomicModelApplicationScenario() {
               </AwesomeSwiper>
             </div>
             <div className="applicationScenario-img">
-              <span className="application img">{t('ARES CHAIN')}</span>
+              <span className="application img">{t('Voracle')}</span>
               <span className="line1"></span>
               <span className="line2"></span>
               <span className="line3"></span>
