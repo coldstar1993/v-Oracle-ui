@@ -17,29 +17,19 @@ function Technology() {
     t("Voracle is an off-chain verifiable oracle platform powered by Mina-ZKapp. It provides reliable on-chain or off-chain data efficiently in a trustless manner.");
   const list = [
     {
-      img: technology1Png,
-      title: t("Aggregator"),
-      desc: t("The aggregator obtains external request data through Scanner, sends the request to the Provider to process all Oracle requests, and uses VRF to ensure the randomness of the aggregator.")
-    },
-    {
-      img: technology2Png,
-      title: t("Challenger"),
-      desc: t("The challenger verifies the integrity and validity of the data submitted by the aggregator and provides fraudulent aggregator data and correct data to the Reputation Committee for rewards.")
-    },
-    {
-      img: technology3Png,
-      title: t("Reputation Committee"),
-      desc: t("By incentivizing validators and punishing malicious aggregators, the security of the Ares network is ensured. The Reputation Committee is fully self-governed by the community, running through token mortgage and reputation weighting.")
-    },
-    {
       img: technology4Png,
       title: t("Data Consumer"),
-      desc: t("Data consumers can be objects that need to obtain external data in smart contracts, parachains, and DAPPs. They can provide various credible and compelling data for DEFI, prediction markets and gambling.")
+      desc: t("Data consumers are zkApps that need to request&verify&utilize data.")
+    },
+    {
+      img: technology1Png,
+      title: t("Aggregator"),
+      desc: t("The aggregator is a API Gateway for all requests from User Zkapps And forwards them to Node Operators.")
     },
     {
       img: technology5Png,
-      title: t("Node Operator"),
-      desc: t("Node operators, as full nodes of the Ares network, verify data by comparing it with the locally stored data market to ensure the Ares network's security and provide oracle RPC services.")
+      title: t("Fetcher"),
+      desc: t("Fetcher are nodes recieving the data requests from API Gateways and go obtaining external data then responding with data attached with their respective signature.")
     },
   ];
 
