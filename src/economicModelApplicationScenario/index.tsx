@@ -52,13 +52,13 @@ function EconomicModelApplicationScenario() {
   const applicationScenario = {
     title: t("Application Scenario"),
     desc: t(
-      "Ares provides precise and reliable real-time off-chain data for DeFi use cases such as decentralized stable coins."
+      "Voracle provides precise and reliable real-time off-chain data for all zkApps."
     ),
     swiper: [
       {
         title: t("Decentralized Finance"),
         desc: t(
-          "Ares provides precise and reliable real-time off-chain data for DeFi use cases such as decentralized stable coins, AMMs, lending, insurance, and financial derivatives. It provides convenient out-of-the-box stable infrastructure for the development of DeFi projects."
+          "Voracle in the future could provide precise and reliable real-time off-chain data for DeFi use cases such as decentralized stable coins, AMMs, lending, insurance, and financial derivatives. It provides convenient out-of-the-box stable infrastructure for the development of DeFi projects."
         ),
       },
       {
@@ -70,7 +70,7 @@ function EconomicModelApplicationScenario() {
       {
         title: t("Internet of Things"),
         desc: t(
-          "Data parameters captured by IoT devices can be used to trigger smart contracts and create new business models within supply chains, smart home industries identity confirmation and more. Ares Protocol can work as a secure middleware between these IoT devices and the blockchain. It can verify the data coming from IoT devices before delivering it to the blockchain."
+          "Data parameters captured by IoT devices can be used to trigger smart contracts and create new business models within supply chains, smart home industries identity confirmation and more. Voracle In the future can work as a secure middleware between these IoT devices and the blockchain. It can verify the data coming from IoT devices before delivering it to the blockchain."
         ),
       },
       {
@@ -82,7 +82,7 @@ function EconomicModelApplicationScenario() {
       {
         title: t("Games and NFTs"),
         desc: t(
-          "Ares Protocol can provide verifiable randomness on the chain which can be used to generate unpredictable gameplay scenarios in block chain games or enable the minting of NFTs."
+          "In the future, Voracle can provide verifiable randomness on the chain which can be used to generate unpredictable gameplay scenarios in block chain games or enable the minting of NFTs."
         ),
       },
     ],
