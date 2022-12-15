@@ -15,10 +15,10 @@ function Head() {
   const head = {
     desc: t("Voracle - Verifiable Oracle Platform Based On Mina"),
     farmsUrl: "https://trojan.aresprotocol.io/",
-    farmBtnText: t("Farms"),
+    farmBtnText: t("Startup"),
     uniswapUrl:
       "https://app.uniswap.org/#/swap?outputCurrency=0x358AA737e033F34df7c54306960a38d09AaBd523&use=V2",
-    uniswapBtnText: t("Uniswap"),
+    uniswapBtnText: t("Voracle Contracts"),
     parity: t("Voracle is based on Mina-zkApp"),
     substrateUrl: "https://www.parity.io/technologies/substrate/",
     substrateBtnText: "Substrate",
