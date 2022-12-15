@@ -14,7 +14,7 @@ function Technology() {
   const { t } = useTranslation();
   const title = t("Technology Architecture");
   const desc =
-    t("Ares is an on-chain verifying oracle platform powered by Polkadot. It provides reliable off-chain data efficiently in a trustless manner.");
+    t("Voracle is an off-chain verifiable oracle platform powered by Mina-ZKapp. It provides reliable on-chain or off-chain data efficiently in a trustless manner.");
   const list = [
     {
       img: technology1Png,
