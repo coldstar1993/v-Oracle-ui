@@ -429,7 +429,7 @@ export const resources = {
       "Market": "市场",
       "Got the ideas": "想法诞生",
       "Core protocol design": "核心协议设计",
-      "Join zkIgnite, Cohort 0": "WEB3 基金会 Grant 申请",
+      "Join zkIgnite, Cohort 0": "参加 zkIgnite, Cohort 0",
       "Develop prototype based on Mina snarkyjs & zkCli work": "基于 Mina Snarkyjs 和 zkCli 的原型开发",
       "Improve the economic model": "改进经济模式的设计",
       "Integrate Ares Protocol in Polkadot Defi projects": "在Polkadot DeFi项目中整合Ares协议",

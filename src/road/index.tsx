@@ -21,7 +21,7 @@ function Road() {
         t("Got the ideas"),
         t("Core protocol design"),
         t("Join zkIgnite, Cohort 0"),
-        t("Develop prototype based on zkapp and off-chain work"),
+        t("Develop prototype based on Mina snarkyjs & zkCli work"),
       ],
     },
     {
